@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 4121cfc9373ec744f9e8e742ed546b57
+timeCreated: 1524339869
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Attache020
+    100002: Attache021
+    100004: AttacheMecanicr020
+    100006: AttacheMecanicr021
+    100008: AttacheMecanicr022
+    100010: AttacheMecanicr023
+    100012: AttacheMecanicr024
+    100014: AttacheMecanicr025
+    100016: Body
+    100018: Bouton002
+    100020: Bouton003
+    100022: Bouton01
+    100024: CordeA
+    100026: CordeB
+    100028: CordeD
+    100030: CordeE
+    100032: CordeE 1
+    100034: CordeG
+    100036: GroupAttaches01
+    100038: GroupAttaches01 1
+    100040: GroupBouttons01
+    100042: GroupCordes
+    100044: Groupmannette01
+    100046: GroupMecanics01
+    100048: GroupMicro01
+    100050: GroupVisse01
+    100052: //RootNode
+    100054: MancheGuitar
+    100056: Mecanic002
+    100058: Mecanic003
+    100060: Mecanic004
+    100062: Mecanic005
+    100064: Mecanic006
+    100066: Mecanic01
+    100068: Micro001
+    100070: Micro004
+    100072: Micro005
+    100074: Plaque
+    100076: Rectangle001
+    100078: Rectangle002
+    100080: Visse001
+    100082: Visse002
+    100084: Visse003
+    100086: Visse004
+    100088: Visse005
+    100090: Visse006
+    100092: Visse007
+    100094: Visse008
+    100096: Visse009
+    100098: Visse010
+    100100: Visse011
+    100102: Visse012
+    100104: Visse013
+    100106: Visse014
+    100108: Visse015
+    400000: Attache020
+    400002: Attache021
+    400004: AttacheMecanicr020
+    400006: AttacheMecanicr021
+    400008: AttacheMecanicr022
+    400010: AttacheMecanicr023
+    400012: AttacheMecanicr024
+    400014: AttacheMecanicr025
+    400016: Body
+    400018: Bouton002
+    400020: Bouton003
+    400022: Bouton01
+    400024: CordeA
+    400026: CordeB
+    400028: CordeD
+    400030: CordeE
+    400032: CordeE 1
+    400034: CordeG
+    400036: GroupAttaches01
+    400038: GroupAttaches01 1
+    400040: GroupBouttons01
+    400042: GroupCordes
+    400044: Groupmannette01
+    400046: GroupMecanics01
+    400048: GroupMicro01
+    400050: GroupVisse01
+    400052: //RootNode
+    400054: MancheGuitar
+    400056: Mecanic002
+    400058: Mecanic003
+    400060: Mecanic004
+    400062: Mecanic005
+    400064: Mecanic006
+    400066: Mecanic01
+    400068: Micro001
+    400070: Micro004
+    400072: Micro005
+    400074: Plaque
+    400076: Rectangle001
+    400078: Rectangle002
+    400080: Visse001
+    400082: Visse002
+    400084: Visse003
+    400086: Visse004
+    400088: Visse005
+    400090: Visse006
+    400092: Visse007
+    400094: Visse008
+    400096: Visse009
+    400098: Visse010
+    400100: Visse011
+    400102: Visse012
+    400104: Visse013
+    400106: Visse014
+    400108: Visse015
+    2100000: 09 - Default
+    2100002: No Name
+    2100004: MaterialPlastic02
+    2100006: MaterialMetal03
+    2100008: 03 - Default
+    2100010: Material Metal02
+    2100012: MaterialMetal01
+    2100014: 'Material #2'
+    2100016: 'Material #14'
+    2300000: Attache020
+    2300002: Attache021
+    2300004: AttacheMecanicr020
+    2300006: AttacheMecanicr021
+    2300008: AttacheMecanicr022
+    2300010: AttacheMecanicr023
+    2300012: AttacheMecanicr024
+    2300014: AttacheMecanicr025
+    2300016: Body
+    2300018: Bouton002
+    2300020: Bouton003
+    2300022: Bouton01
+    2300024: CordeA
+    2300026: CordeB
+    2300028: CordeD
+    2300030: CordeE
+    2300032: CordeE 1
+    2300034: CordeG
+    2300036: MancheGuitar
+    2300038: Mecanic002
+    2300040: Mecanic003
+    2300042: Mecanic004
+    2300044: Mecanic005
+    2300046: Mecanic006
+    2300048: Mecanic01
+    2300050: Micro001
+    2300052: Micro004
+    2300054: Micro005
+    2300056: Plaque
+    2300058: Rectangle001
+    2300060: Rectangle002
+    2300062: Visse001
+    2300064: Visse002
+    2300066: Visse003
+    2300068: Visse004
+    2300070: Visse005
+    2300072: Visse006
+    2300074: Visse007
+    2300076: Visse008
+    2300078: Visse009
+    2300080: Visse010
+    2300082: Visse011
+    2300084: Visse012
+    2300086: Visse013
+    2300088: Visse014
+    2300090: Visse015
+    3300000: Attache020
+    3300002: Attache021
+    3300004: AttacheMecanicr020
+    3300006: AttacheMecanicr021
+    3300008: AttacheMecanicr022
+    3300010: AttacheMecanicr023
+    3300012: AttacheMecanicr024
+    3300014: AttacheMecanicr025
+    3300016: Body
+    3300018: Bouton002
+    3300020: Bouton003
+    3300022: Bouton01
+    3300024: CordeA
+    3300026: CordeB
+    3300028: CordeD
+    3300030: CordeE
+    3300032: CordeE 1
+    3300034: CordeG
+    3300036: MancheGuitar
+    3300038: Mecanic002
+    3300040: Mecanic003
+    3300042: Mecanic004
+    3300044: Mecanic005
+    3300046: Mecanic006
+    3300048: Mecanic01
+    3300050: Micro001
+    3300052: Micro004
+    3300054: Micro005
+    3300056: Plaque
+    3300058: Rectangle001
+    3300060: Rectangle002
+    3300062: Visse001
+    3300064: Visse002
+    3300066: Visse003
+    3300068: Visse004
+    3300070: Visse005
+    3300072: Visse006
+    3300074: Visse007
+    3300076: Visse008
+    3300078: Visse009
+    3300080: Visse010
+    3300082: Visse011
+    3300084: Visse012
+    3300086: Visse013
+    3300088: Visse014
+    3300090: Visse015
+    4300000: Body
+    4300002: Plaque
+    4300004: Micro001
+    4300006: Rectangle001
+    4300008: MancheGuitar
+    4300010: Rectangle002
+    4300012: Bouton002
+    4300014: CordeD
+    4300016: CordeE
+    4300018: CordeA
+    4300020: CordeB
+    4300022: CordeE
+    4300024: CordeG
+    4300026: Visse002
+    4300028: AttacheMecanicr020
+    4300030: AttacheMecanicr021
+    4300032: AttacheMecanicr022
+    4300034: AttacheMecanicr023
+    4300036: AttacheMecanicr024
+    4300038: AttacheMecanicr025
+    4300040: Mecanic002
+    4300042: Mecanic01
+    4300044: Mecanic003
+    4300046: Mecanic004
+    4300048: Mecanic005
+    4300050: Mecanic006
+    4300052: Attache021
+    6400000: Attache020
+    6400002: Attache021
+    6400004: AttacheMecanicr020
+    6400006: AttacheMecanicr021
+    6400008: AttacheMecanicr022
+    6400010: AttacheMecanicr023
+    6400012: AttacheMecanicr024
+    6400014: AttacheMecanicr025
+    6400016: Body
+    6400018: Bouton002
+    6400020: Bouton003
+    6400022: Bouton01
+    6400024: CordeA
+    6400026: CordeB
+    6400028: CordeD
+    6400030: CordeE
+    6400032: CordeE 1
+    6400034: CordeG
+    6400036: MancheGuitar
+    6400038: Mecanic002
+    6400040: Mecanic003
+    6400042: Mecanic004
+    6400044: Mecanic005
+    6400046: Mecanic006
+    6400048: Mecanic01
+    6400050: Micro001
+    6400052: Micro004
+    6400054: Micro005
+    6400056: Plaque
+    6400058: Rectangle001
+    6400060: Rectangle002
+    6400062: Visse001
+    6400064: Visse002
+    6400066: Visse003
+    6400068: Visse004
+    6400070: Visse005
+    6400072: Visse006
+    6400074: Visse007
+    6400076: Visse008
+    6400078: Visse009
+    6400080: Visse010
+    6400082: Visse011
+    6400084: Visse012
+    6400086: Visse013
+    6400088: Visse014
+    6400090: Visse015
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 6adb3653208cd014485f9d5badc0e12f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 29810c0c78112404a8e93ac5b743691a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14'
+    second: {fileID: 2100000, guid: 3f7c0287065f68f4e9f72dc949e28d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 3f7c0287065f68f4e9f72dc949e28d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material Metal02
+    second: {fileID: 2100000, guid: 3f7c0287065f68f4e9f72dc949e28d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialMetal01
+    second: {fileID: 2100000, guid: 29436e0bb9bc7674598c0f880687eb28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialMetal03
+    second: {fileID: 2100000, guid: 29436e0bb9bc7674598c0f880687eb28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialPlastic02
+    second: {fileID: 2100000, guid: 9f81dc50403e57841a551148bdb0a154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9f81dc50403e57841a551148bdb0a154, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
